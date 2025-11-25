@@ -85,10 +85,6 @@ params.ffnn_layers = [128 64 32];
 - `feature_importance.png` - Top features
 - `accuracy_comparison.png` - Model performance
 
-## License
 
-Research and educational use only.
-
----
 
 _Gait recognition using wearable sensor data | November 2025_
